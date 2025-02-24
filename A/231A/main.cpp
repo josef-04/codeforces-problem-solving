@@ -14,6 +14,5 @@ int main()
         else if(x==1 && y==0 && z==1){total++;}
       }while(--np);
     cout <<total<<endl;
-    return 0;
- 
+    return 0;  
 }
